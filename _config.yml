@@ -1,5 +1,7 @@
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Luke Woods Homepage
 description: A page to demonstrate my personal and work projects!
+
+theme: jekyll-theme-tactile
+#remote_theme: pages-themes/tactile@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
