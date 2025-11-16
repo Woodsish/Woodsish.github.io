@@ -2,12 +2,12 @@
 My Senior Capstone project at the University of Idaho
 
 ## [EXPO Poster](/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster - FireSense 2022.pdf)
-![Infrasonic Wildfire Detection EXPO Poster](/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster Image.png)
 <iframe src="/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster - FireSense 2022.pdf" width="100%" height="600px"></iframe>
 
-
 ## [Final Presentation](/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection Final Presentation 2022.pdf)
+<iframe src="/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection Final Presentation 2022.pdf" width="100%" height="600px"></iframe>
 
 ## [Final Report](/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection Final Report.pdf)
+<iframe src="/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection Final Report.pdf" width="100%" height="600px"></iframe>
 
 ## Videos
