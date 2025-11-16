@@ -1,8 +1,3 @@
----
-title: Luke Woods
-description: A page to demonstrate my personal and work projects!
----
-
 # Infrasonic Wildfire Detection
 My Senior Capstone project at the University of Idaho
 
