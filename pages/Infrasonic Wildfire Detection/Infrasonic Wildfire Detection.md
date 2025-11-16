@@ -3,7 +3,7 @@ My Senior Capstone project at the University of Idaho
 
 ## EXPO Poster
 This is the [poster](/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster - FireSense 2022.pdf) we presented at the University's EXPO with.
-<iframe src="/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster - FireSense 2022.pdf" width="100%" height="600px">
+<iframe src="/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster - FireSense 2022.pdf" width="100%" height="450px">
   This browser does not support inline PDFs. Please click on the header to open the file!
   Or open it from [here](/pages/Infrasonic Wildfire Detection/Infrasonic Wildfire Detection EXPO Poster - FireSense 2022.pdf).
 </iframe>
