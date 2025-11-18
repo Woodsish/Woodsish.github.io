@@ -1,7 +1,7 @@
 Under Construction
 👋
 
-Learn more in the (about)[/pages/About.me] section!
+Learn more in the [about](/pages/About.me) section!
 
 
 # Posts
