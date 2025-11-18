@@ -1,7 +1,7 @@
 Under Construction
 👋
 
-[resume](pages/About/Luke_Woods_EI_Resume.pdf)
+Learn more in the (about)[/pages/About.me] section!
 
 
 # Posts
