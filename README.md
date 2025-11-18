@@ -1,6 +1,7 @@
 Under Construction
 👋
 
+# Welcome!
 EI, CSWE.
 Manufacturing Engineer II at Genie. 
 University of Idaho graduate in Mechanical Engineering.
