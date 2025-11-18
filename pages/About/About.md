@@ -1,3 +1,9 @@
+## School
+
+## Work
+
+## Personal Projects
+
 ## Resume
 An copy of my [resume](/About/Luke_Woods_EI_Resume.pdf) is listed below.
 <iframe src="/About/Luke_Woods_EI_Resume.pdf" width="100%" height="600px">
