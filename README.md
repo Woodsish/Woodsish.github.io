@@ -1,7 +1,7 @@
 Under Construction
 👋
 
-[resume]([Infrasonic Wildfire Detection](pages/About/Luke_Woods_EI_Resume.pdf))
+[resume](pages/About/Luke_Woods_EI_Resume.pdf))
 
 
 # Posts
