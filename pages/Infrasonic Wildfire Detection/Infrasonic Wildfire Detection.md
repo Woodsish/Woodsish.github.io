@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # Infrasonic Wildfire Detection
