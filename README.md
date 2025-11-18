@@ -1,6 +1,10 @@
 Under Construction
 👋
 
+EI, CSWE.
+Manufacturing Engineer II at Genie. 
+University of Idaho graduate in Mechanical Engineering.
+
 Learn more in the [about](pages/About/About.md) section!
 
 
