@@ -1,7 +1,7 @@
 Under Construction
 👋
 
-Learn more in the [about](pages/About.md) section!
+Learn more in the [about](pages/About/About.md) section!
 
 
 # Posts
