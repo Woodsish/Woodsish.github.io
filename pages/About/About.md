@@ -3,6 +3,7 @@ El, CSWE. Manufacturing Engineer II at Genie.
 University of Idaho graduate in Mechanical Engineering.
 
 ## School
+I attended the Univeristy of Idaho in Moscow, ID, as part of the Mechanical Engineering program. 
 
 ## Work
 
