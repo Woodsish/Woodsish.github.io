@@ -2,12 +2,9 @@ Under Construction
 👋
 
 # Welcome!
-EI, CSWE.
-Manufacturing Engineer II at Genie. 
-University of Idaho graduate in Mechanical Engineering.
+My name is Luke, and I am a Mechanical Engineer! If you'd like to learn more about me, check out my [about](pages/About/About.md) section.
 
-Learn more in the [about](pages/About/About.md) section!
-
+If you're interested in the projects I've worked on, check out the Posts section below!
 
 # Posts
 
