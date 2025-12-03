@@ -2,7 +2,7 @@
 El, CSWE. Manufacturing Engineer II at Genie.
 University of Idaho graduate in Mechanical Engineering.
 
-I'm driven to help others, especially through work that measurably improves lives. Mechanical engineering inspires me because its innovations often benefit everyday life, and that aligns perfectly with my passion for advancing technology that serves both people and the planet.
+I’m driven to help others, especially through work that measurably improves lives. Mechanical engineering is the perfect environment to practice critical thinking and interdisciplinary collaboration while developing technology that serves both people and the planet.
 
 
 ## School
